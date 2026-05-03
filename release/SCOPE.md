@@ -13,3 +13,5 @@ This specification intentionally excludes:
 
 Any system claiming SLTL compatibility must comply with this specification
 and must not misrepresent trust authority status.
+
+Operating as an SLTL trust authority, or issuing seals under SLTL trust marks, is reserved exclusively to SLTL Trust (an Alpha91 brand).

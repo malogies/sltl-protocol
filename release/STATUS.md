@@ -1,7 +1,7 @@
 # Specification Status
 
 Specification: SLTL Protocol  
-Version: v1.0.0-draft  
+Version: v1.0.1-draft  
 Status: Draft  
 
 This specification is considered stable for review and reference.

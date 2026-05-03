@@ -1,4 +1,4 @@
-# SLTL Protocol — Draft Specification (v1.0.0)
+# SLTL Protocol — Draft Specification (v1.0.1)
 
 ## Protocol Published
 
@@ -37,9 +37,9 @@ public prior art.
 
 SLTL defines the **protocol**.
 
-**SLTL.global operates the reference Trust Authority.**
+**SLTL Trust** (an Alpha91 brand at `sltltrust.com`; public verify endpoint at `sltl.global`) is the sole Trust Authority for the SLTL protocol.
 
-Only verified issuers operating under SLTL.global may represent links as
+Only verified issuers operating under SLTL Trust may represent links as
 **SLTL Trusted™**.
 
 ---
@@ -47,7 +47,7 @@ Only verified issuers operating under SLTL.global may represent links as
 ## Status
 
 - Status: Draft
-- Version: v1.0.0-draft
+- Version: v1.0.1-draft
 - Versioning: Semantic Versioning (v1.x)
 - Change policy: Backward-compatible refinements only within v1.x
 
@@ -55,4 +55,4 @@ Future revisions will be published as versioned releases.
 
 ---
 
-© SLTL.global
+© SLTL Trust, an Alpha91 brand. Alpha91 Enterprises Pty Ltd.
